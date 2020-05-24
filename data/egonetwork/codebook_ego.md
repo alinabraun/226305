@@ -33,7 +33,8 @@ Beziehungsgewicht für Frage 2.1, codiert als
 6 = Kommilitone,   
 7 = Mitglied in gleicher Gruppe (Sport, Verein, Kirche, etc.),   
 8 = Ratgeber (z.B. Anwalter, Berater, Therapeut, spiritueller Beistand, etc.),   
-9 = feste Beziehung / Partnerschaft.
+9 = feste Beziehung / Partnerschaft
+10 = Freund.
   
 ## Nodelist
 Die Nodelist erfasst alle soziodemographischen Daten. Dazu gehören auch ihre eigenen ;-).
